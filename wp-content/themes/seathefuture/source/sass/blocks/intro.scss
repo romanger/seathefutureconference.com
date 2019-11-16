@@ -1,0 +1,19 @@
+.intro {
+    padding-top:3em;
+    padding-bottom: 3em;
+    background-image: url(img/sea-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro__logo {
+    max-width: 100%;
+    width: 90%;
+}
+
+.intro__text {
+    text-transform: uppercase;
+    font-size: 32px;
+    color: #ffffff;
+    font-family:'Akkurat', Arial, Helvetica, sans-serif;
+}
